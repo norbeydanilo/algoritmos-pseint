@@ -2,13 +2,13 @@
 
 Lista de ejercicios desarrollados en PSeInt que abordan algoritmos básicos, estructuras de control y funciones.
 
-## Herramientas empleadas :computer:
+## Herramientas empleadas :bookmark_tabs:
 
 - [PSeInt](https://pseint.sourceforge.net)
 
 ## Algoritmos básicos 💻
 
-:open_file_folder: algoritmos
+:open_file_folder: [algoritmos](https://github.com/norbeydanilo/algoritmos-pseint/tree/main/algoritmos)
 
 - ejercicio01: Programa que pregunta el nombre y después saluda.
 
@@ -34,9 +34,9 @@ Lista de ejercicios desarrollados en PSeInt que abordan algoritmos básicos, est
 
 ## Estructuras de control 💻
 
-### Condicionales (selectivas)
+### Condicionales (selectivas) :pushpin:
 
-:open_file_folder: condicionales
+:open_file_folder: [condicionales](https://github.com/norbeydanilo/algoritmos-pseint/tree/main/condicionales)
 
 - ejercicio01: Identificar si un número es par o impar.
 
@@ -54,9 +54,9 @@ Lista de ejercicios desarrollados en PSeInt que abordan algoritmos básicos, est
 
 - ejercicio08: El director de una escuela está organizando un viaje de estudios, y requiere determinar cuánto debe cobrar a cada alumno y cuánto debe pagar a la compañía de viajes por el servicio. La forma de cobrar es la siguiente: si son 100 alumnos o más, el costo por cada alumno es de 65 euros; de 50 a 99 alumnos, el costo es de 70 euros, de 30 a 49, de 95 euros, y si son menos de 30, el costo de la renta del autobús es de 4000 euros, sin importar el número de alumnos. Realice un algoritmo que permita determinar el pago a la compañía de autobuses y lo que debe pagar cada alumno por el viaje.
 
-### Repetitivas (ciclos)
+### Repetitivas (ciclos) :loop:
 
-:open_file_folder: ciclos
+:open_file_folder: [ciclos](https://github.com/norbeydanilo/algoritmos-pseint/tree/main/ciclos)
 
 - ejercicio01: Programa que pide un número y calcula el factorial (el factorial de un número es el producto de todos los enteros entre 1 y el propio número y se representa por el número seguido de un signo de exclamación. Por ejemplo 5! = 1x2x3x4x5 = 120).
 
@@ -72,7 +72,7 @@ Lista de ejercicios desarrollados en PSeInt que abordan algoritmos básicos, est
 
 ## Funciones 💻
 
-:open_file_folder: funciones
+:open_file_folder: [funciones](https://github.com/norbeydanilo/algoritmos-pseint/tree/main/funciones)
 
 - ejercicio01: Programa que pide dos números enteros y dice si alguno de ellos es múltiplo del otro. Cree una función _EsMultiplo_ que reciba los dos números, y devuelve si el primero es múltiplo del segundo.
 
@@ -85,7 +85,7 @@ Lista de ejercicios desarrollados en PSeInt que abordan algoritmos básicos, est
   - Si la división no es exacta, dividimos el divisor entre el resto obtenido y se continúa de esta forma hasta obtener una división exacta, siendo el último divisor el MCD.
   - Crea un programa principal que lea dos números enteros y muestre el MCD.
 
-- ejercicio04: Crear una función recursiva que permita calcular el factorial de un número. Realiza un programa principal donde se lea un entero y se muestre el resultado del factorial.
+- ejercicio04: Crear una [función recursiva](https://github.com/norbeydanilo/pensamiento-logico-algoritmia/blob/main/10.recursividad.pptx) que permita calcular el factorial de un número. Realiza un programa principal donde se lea un entero y se muestre el resultado del factorial.
 
 - ejercicio05: Escribir dos funciones que permitan calcular:
 
