@@ -93,3 +93,11 @@ Lista de ejercicios desarrollados en PSeInt que abordan algoritmos básicos, est
   - La cantidad de horas, minutos y segundos de un tiempo dado en segundos.
 
   Escribe un programa principal con un menú donde se pueda elegir la opción de convertir a segundos, convertir a horas, minutos y segundos o salir del programa.
+
+  ## About :octocat:
+
+:alien: **Authors:** exercices were made by Norbey Danilo Muñoz Cañón and Universidad Distrital students.
+
+:blue_book: **Thanks!**
+
+> :bird: "Hazlo todo tan simple como sea posible, pero no más simple"
