@@ -96,7 +96,7 @@ Lista de ejercicios desarrollados en PSeInt que abordan algoritmos básicos, est
 
   ## About :octocat:
 
-:alien: **Authors:** exercices were made by Norbey Danilo Muñoz Cañón and Universidad Distrital students.
+:alien: **Authors:** exercises were made by Norbey Danilo Muñoz Cañón and Universidad Distrital students.
 
 :blue_book: **Thanks!**
 
